@@ -7,7 +7,7 @@
 Mijn naam is stien dreesen, ik ben geboren in Geel op 27 juni 1996 en ik woon in tessenderlo. Ik studeer grafische en digitale media en ik zit op kot in gent. In het middelbaar koos ik ervoor om boekhouden informatica te studeren </br> mijn hobby's zijn klj, gitaar spelen, ik kijk graag series en films en ga graag weg met vrienden.
 </hr>
 <h2>Portfolio</h2>
-<a href="https://vimeo.com/129389470">![logo](http://i.imgur.com/XlNxGp9.png "logo")</a>
+<a href="https://vimeo.com/129389470">![logo](http://i.imgur.com/XlNxGp9.png "logo")</a> </br>
 <a href="https://vimeo.com/127425301">![logo](http://i.imgur.com/V8iqFRO.png "logo")</a>
 </a>
 <h2>Werkervaring</h2>
