@@ -8,7 +8,11 @@ Mijn naam is stien dreesen, ik ben geboren in Geel op 27 juni 1996 en ik woon in
 </hr>
 <h2>Portfolio</h2>
 video
-<a href="https://vimeo.com/129389470"</a>
+<p>
+<a href="https://vimeo.com/129389470"
+![logo](http://i.imgur.com/XlNxGp9.png "logo")
+</p>
+</a>
 <h2>Werkervaring</h2>
 <table>
 <thead>
