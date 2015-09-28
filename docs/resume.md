@@ -1,8 +1,6 @@
 <img href="http://i.imgur.com/tZUhXw4.png"/>
-![De Maan](http://www.digital-photography-school.com/wp-content/uploads/2010/12/lunar-eclipse.jpg "Wondermooie Maan")
-![Steve Jobs][Steve J]
+![logo](http://i.imgur.com/tZUhXw4.png "logo")
 
-[Steve J]:http://www.insideris.com/wp-content/uploads/2012/04/stevejobbs.jpg "Steve Jobs"
 <h1> stien dreesen </h1>
 <hr/>
 <h2> biografie</h2>
