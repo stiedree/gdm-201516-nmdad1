@@ -6,7 +6,19 @@ Mijn naam is stien dreesen, ik ben geboren in Geel op 27 juni 1996 en ik woon in
 </hr>
 <h2>Portfolio</h2>
 <h2>Werkervaring</h2>
+
+
 <h2>Kennis webtechnologieën</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>javascript</li>
+<li>jquery</li>
+<li>MySQL</li>
+<li>vb.net</li>
+<li>asp.net</li>
+</ul>
+</hr>
 <h2>Softwarekennis</h2>
 <ul>
 <li>Adobe Creative Cloud Suite</li>
@@ -28,10 +40,10 @@ Mijn naam is stien dreesen, ik ben geboren in Geel op 27 juni 1996 en ik woon in
 
 <h2>Contactinformatie</h2>
 <address>
-Dreesen Stien
-Boekdonkstraat 6
-3980 Tessenderlo
-tel: 0478/384494
+Dreesen Stien</br>
+Boekdonkstraat 6</br>
+3980 Tessenderlo</br>
+tel: 0478/384494</br>
 mail: <A HREF="stien.dreesen@telenet.be">stien.dreesen@telenet.be</A>
 </address>
 </hr>
