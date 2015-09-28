@@ -6,8 +6,42 @@ Mijn naam is stien dreesen, ik ben geboren in Geel op 27 juni 1996 en ik woon in
 </hr>
 <h2>Portfolio</h2>
 <h2>Werkervaring</h2>
-
-
+<table>
+<thead>
+<tr>
+<th>plaats </th>
+<th>periode </th>
+<th>wat</th>
+</tr>
+<thead/>
+<tbody>
+<tr>
+<td>stage ocmw</td>
+<td>09-2013 tot 10-2013</td>
+<td>boekhouding</td>
+</tr>
+<tr>
+<td>promoteam klj limburg</td>
+<td>03-2015 tot op heden</td>
+<td>ontwerpen promomateriaal</td>
+</tr>
+<tr>
+<td> redactieraad klj</td>
+<td>sept 2015 tot op heden</td>
+<td>redacteur</td>
+</tr>
+<tr>
+<td>klj schoot</td>
+<td>2012 tot op heden</td>
+<td>leiding</td>
+</tr>
+<tr>
+<td>moeder gutenberg</td>
+<td>2015-2016</td>
+<td>penningmeester</td>
+</tr>
+</table>
+</hr>
 <h2>Kennis webtechnologieën</h2>
 <ul>
 <li>HTML</li>
